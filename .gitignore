@@ -1,0 +1,52 @@
+# Build folders
+build/
+bin/
+Debug/
+Release/
+x64/
+x86/
+
+# Visual Studio files
+*.sdf
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+*.VC.db
+*.VC.opendb
+
+# CMake-generated files
+CMakeFiles/
+CMakeCache.txt
+cmake_install.cmake
+Makefile
+CTestTestfile.cmake
+
+# Compiled objects
+*.obj
+*.o
+*.lo
+*.ilk
+*.pdb
+*.idb
+*.exe
+*.dll
+*.lib
+*.so
+*.a
+
+# Logs and databases
+*.log
+*.sqlite
+
+# IDE metadata
+.vscode/
+.idea/
+*.code-workspace
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Optional: ignore generated docs
+docs/html/
